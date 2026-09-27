@@ -26,7 +26,7 @@ omarchy theme install https://github.com/squatchware/omarchy-nixie-theme
 ## The rest of the pack
 
 - [Commodore 64](https://github.com/squatchware/omarchy-c64-theme): READY. Light blue on blue, the 16-colour VIC-II palette, and a squatch on tape.
-- [Apple II](https://github.com/squatchware/omarchy-apple-ii-theme): Green phosphor text over lo-res colour: the ] prompt and sixteen blocky colours.
+- [Apple II](https://github.com/squatchware/omarchy-apple-2-theme): Green phosphor text over lo-res colour: the ] prompt and sixteen blocky colours.
 - [Teletext](https://github.com/squatchware/omarchy-teletext-theme): Page 100. Eight colours, chunky mosaic graphics and double-height headlines.
 - [Phosphor Green](https://github.com/squatchware/omarchy-phosphor-green-theme): A P1 green monochrome monitor: glow, scanlines and a boot screen that takes its time.
 - [Phosphor Amber](https://github.com/squatchware/omarchy-phosphor-amber-theme): A P3 amber monochrome monitor: the warm one, easy on the eyes after midnight.
